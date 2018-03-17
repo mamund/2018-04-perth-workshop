@@ -66,9 +66,8 @@ If you want to get a head start on the course, you can check out the following r
  * Apiary's API Blueprint at https://apiary.io/how-apiary-works
 
 ### About Mike Amundsen
-<p><img src="http://amundsen.com/images/mca-photos/mca-newstack-180.png" style="float: right">
+<img src="http://amundsen.com/images/mca-photos/mca-newstack-180.png" style="float:right"/>
 An internationally known author and lecturer, Mike Amundsen travels throughout the world consulting and speaking on a wide range of topics including distributed network architecture, Web application development, and other subjects.
-</p>
 
 In his role of Director of Architecture for the API Academy, Amundsen heads up the API Architecture and Design Practice in North America. He is responsible for working with companies to provide insight on how best to capitalize on the myriad opportunities APIs present to both consumers and the enterprise.
 
