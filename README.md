@@ -23,7 +23,7 @@ Below is the planned agenda for the day:
      * APIs and Norman's Action LifeCycle
      * _Action Lifecycle Exercise_
    * Designing APIs
-     * Tech-Agnostic Design and the Richarsdon/Amundsen Design Method
+     * Tech-Agnostic Design and the Richardson/Amundsen Design Method
      * _Five-Step Method Exercise_
    * Describing APIs
      * Tech-Agnostic Descriptions and the ALPS Format
