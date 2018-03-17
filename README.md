@@ -8,7 +8,7 @@
  * [Additional Reading](#additional-reading)
  * [About Mike Amundsen](#about-mike-amundsen)
 
-**NOTE: Watch this space!** This repo will be updated occasionally in the run-up to the actual live workshop. Feel free to visit this about once a week to see what's new as a way to help you prepare for a full day of _Designing and Building Great APIs_.
+_**NOTE: Watch this space!** This repo will be updated occasionally in the run-up to the actual live workshop. Feel free to visit this about once a week to see what's new as a way to help you prepare for a full day of **Designing and Building Great APIs**_.
 
 ### Overview
 This full-day workshop walks you through a complete process of designing and building APIs that both your developers and your company will love. Topic covered include the API Action Lifecycle, Designing and Describing APIs, and the Sketch-Prototype-Build pattern for safely and quickly turning API designs into production-ready deployments.
