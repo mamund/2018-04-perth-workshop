@@ -60,8 +60,8 @@ If you want to get a head start on the course, you can check out the following r
 
  * "The Design of Everyday Things: Revised and Expanded Edition" by Donald Norman (Chapter 3)
  * "RESTful Web APIs" by Leonard Richardson and Mike Amundsen (Chapter 9)
- * The Application-Level Profile Semantics (ALPS) Specification at http://alps.io/spec/index.html
  * "Frank O. Gehry: Sketches" at https://arcspace.com/studio/frank-o-gehry-sketches/
+ * The Application-Level Profile Semantics (ALPS) Specification at http://alps.io/spec/index.html
  * The OpenAPI Specification and Editor at http://editor.swagger.io/
 
 
