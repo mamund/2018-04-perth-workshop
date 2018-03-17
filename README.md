@@ -67,12 +67,11 @@ If you want to get a head start on the course, you can check out the following r
 
 ### About Mike Amundsen
 <p><img src="http://amundsen.com/images/mca-photos/mca-newstack-180.png" align="right"/>
-An internationally known author and lecturer, Mike Amundsen travels throughout the world consulting and speaking on a wide range of topics including distributed network architecture, Web application development, and other subjects.
+An internationally known author and speaker, Mike Amundsen travels the world consulting and talking about network architecture, Web development, and other subjects. As Director of Architecture for the API Academy, he works with companies to provide insight on how best to capitalize on the opportunities APIs present to both consumers and the enterprise. 
 </p>
 
-In his role of Director of Architecture for the API Academy, Amundsen heads up the API Architecture and Design Practice in North America. He is responsible for working with companies to provide insight on how best to capitalize on the myriad opportunities APIs present to both consumers and the enterprise.
+Amundsen has authored numerous books and papers. His 2013 collaboration with Leonard Richardson "RESTful Web APIs" and his 2011 book, “Building Hypermedia APIs with HTML5 and Node”, are common references for building adaptable Web applications. He co-authored "Microservice Architecture" (June 2016) and his latest book, "RESTful Web Clients", was published by O'Reilly in February 2017.
 
-Amundsen has authored numerous books and papers on programming over the last 15 years. His collaboration with Leonard Richardson titled "RESTful Web APIs" was published in 2013. His 2011 book, “Building Hypermedia APIs with HTML5 and Node”, is an oft-cited reference on building adaptable Web applications. O’Reilly Media released his latest book - "RESTful Web Clients" in March of 2017.
 
  * Blog: http://amundsen.com/blog/
  * Github: http://github.com/mamund
