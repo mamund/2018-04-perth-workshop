@@ -66,7 +66,7 @@ If you want to get a head start on the course, you can check out the following r
  * Apiary's API Blueprint at https://apiary.io/how-apiary-works
 
 ### About Mike Amundsen
-<p><img src="http://amundsen.com/images/mca-photos/mca-newstack-180.png" algin="right">
+<p><img src="http://amundsen.com/images/mca-photos/mca-newstack-180.png" style="float: right">
 An internationally known author and lecturer, Mike Amundsen travels throughout the world consulting and speaking on a wide range of topics including distributed network architecture, Web application development, and other subjects.
 </p>
 
