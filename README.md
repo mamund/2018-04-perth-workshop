@@ -1,7 +1,7 @@
-# 2018-04 Perth API Workshop
-## Designing and Building Great APIs
+# Designing and Building Great APIs
+## 2018-04 Perth API Workshop
 
- * [Overview](#0verview)
+ * [Overview](#overview)
  * [Agenda](#agenda)
  * [Prerequisites](#prerequisites)
  * [Supplies](#supplies)
@@ -58,8 +58,8 @@ Come ready to rock with the following supplies:
 ### Additional Reading
 If you want to get a head start on the course, you can check out the following reading material (online or at your public library):
 
- * "The Design of Everyday Things" by Donald Norman
- * "RESTful Web APIs" by Leonard Richardson and Mike Amundsen
+ * "The Design of Everyday Things: Revised and Expanded Edition" by Donald Norman (Chapter 3)
+ * "RESTful Web APIs" by Leonard Richardson and Mike Amundsen (Chapter 9)
  * The Application-Level Profile Semantics (ALPS) Specification at http://alps.io/spec/index.html
  * "Frank O. Gehry: Sketches" at https://arcspace.com/studio/frank-o-gehry-sketches/
  * The OpenAPI Specification and Editor at http://editor.swagger.io/
