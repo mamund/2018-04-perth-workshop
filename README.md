@@ -42,7 +42,7 @@ Each unit has both a lecture and exercise portion. The exercises usually involve
 ### Supplies
 Come ready to rock with the following supplies:
 
- * Pen and Paper for taking notes and working on exercises
+ * Pen and paper for taking notes and working on exercises
  * Laptop with Internet access that is loaded with your favorite text editor and (optionally) a working instance of NodeJS
  * A Github account and (optionally) a locally installed instance of git 
 
