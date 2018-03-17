@@ -9,27 +9,27 @@ Guided by a mix of slides and table exercises, attendees will get direct hands-o
 ### Agenda
 Below is the planned agenda for the day:
 
- * *Morning Session: Designing APIs*
+ * **Morning Session: Designing APIs**
    * Creating Good APIs
      * APIs and Norman's Action LifeCycle
-     * __Action Lifecycle Exercise__
+     * _Action Lifecycle Exercise_
    * Designing APIs
      * Tech-Agnostic Design and the Richarsdon/Amundsen Design Method
-     * __Five-Step Method Exercise__
+     * _Five-Step Method Exercise_
    * Describing APIs
      * Tech-Agnostic Descriptions and the ALPS Format
-     * __Description Exercise__
+     * _Description Exercise_
      
- * *Afternoon Session : Building APIs*
+ * **Afternoon Session : Building APIs**
    * Sketching 
      * Frank Gehry's Sketching and the API Blueprint Format
-     * __Sketching Exercise__
+     * _Sketching Exercise_
    * Prototyping
      * The Power of Prototypes & the OpenAPI Spec 
-     * __Prototyping Exercise__
+     * _Prototyping Exercise_
    * Building
      * Bringing it All Together
-     * __NodeJS Exercise__
+     * _NodeJS Exercise_
    
 
 ### Prerequisites
