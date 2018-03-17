@@ -1,6 +1,9 @@
 # 2018-04 Perth API Workshop
 ## Designing and Building Great APIs
 
+ * [Overview](#Overview)
+ * [About Mike Amundsen](#About_Mike_Amundsen)
+
 **NOTE: Watch this space!** This repo will be updated occasionally in the run-up to the actual live workshop. Feel free to visit this about once a week to see what's new as a way to help you prepare for a full day of _Designing and Building Great APIs_.
 
 ### Overview
@@ -57,3 +60,17 @@ If you want to get a head start on the course, you can check out the following r
  * "Frank O. Gehry: Sketches" at https://arcspace.com/studio/frank-o-gehry-sketches/
  * The OpenAPI Specification and Editor at http://editor.swagger.io/
 
+
+### About Mike Amundsen
+An internationally known author and lecturer, Mike Amundsen travels throughout the world consulting and speaking on a wide range of topics including distributed network architecture, Web application development, and other subjects.
+
+In his role of Director of Architecture for the API Academy, Amundsen heads up the API Architecture and Design Practice in North America. He is responsible for working with companies to provide insight on how best to capitalize on the myriad opportunities APIs present to both consumers and the enterprise.
+
+Amundsen has authored numerous books and papers on programming over the last 15 years. His collaboration with Leonard Richardson titled "RESTful Web APIs" was published in 2013. His 2011 book, “Building Hypermedia APIs with HTML5 and Node”, is an oft-cited reference on building adaptable Web applications. O’Reilly Media released his latest book - "RESTful Web Clients" in March of 2017.
+
+ * Blog: http://amundsen.com/blog/
+ * Github: http://github.com/mamund
+ * Twitter: http://twitter.com/mamund
+ * LinkedIn: http://linkedin.com/in/mamund
+ * Facebook: http://facebook.com/mcaTravels
+ 
