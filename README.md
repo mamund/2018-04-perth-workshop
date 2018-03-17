@@ -1,5 +1,5 @@
 # 2018-04 Perth API Workshop
-**Designing and Building Great APIs**
+## Designing and Building Great APIs
 
 **NOTE: Watch this space!** This repo will be updated occasionally in the run-up to the actual live workshop. Feel free to visit this about once a week to see what's new as a way to help you prepare for a full day of _Designing and Building Great APIs_.
 
