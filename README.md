@@ -26,7 +26,7 @@ Below is the planned agenda for the day:
      * Tech-Agnostic Design and the Richardson/Amundsen Design Method
      * _Five-Step Method Exercise_
    * Describing APIs
-     * Tech-Agnostic Descriptions and the ALPS Format
+     * API Descriptions and the ALPS Format
      * _Description Exercise_
      
  * **Afternoon Session : Building APIs**
