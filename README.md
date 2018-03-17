@@ -63,7 +63,7 @@ If you want to get a head start on the course, you can check out the following r
  * "Frank O. Gehry: Sketches" at https://arcspace.com/studio/frank-o-gehry-sketches/
  * The Application-Level Profile Semantics (ALPS) Specification at http://alps.io/spec/index.html
  * The OpenAPI Specification and Editor at http://editor.swagger.io/
-
+ * Apiary's API Blueprint at https://apiary.io/how-apiary-works
 
 ### About Mike Amundsen
 An internationally known author and lecturer, Mike Amundsen travels throughout the world consulting and speaking on a wide range of topics including distributed network architecture, Web application development, and other subjects.
