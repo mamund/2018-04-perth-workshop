@@ -19,7 +19,7 @@ Guided by a mix of slides and table exercises, attendees will get direct hands-o
 Below is the planned agenda for the day:
 
  * **Morning Session: Designing APIs**
-   * Creating Good APIs
+   * Creating Great APIs
      * APIs and Norman's Action LifeCycle
      * _Action Lifecycle Exercise_
    * Designing APIs
