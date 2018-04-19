@@ -7,7 +7,7 @@
  * [Supplies](#supplies)
  * [Additional Reading](#additional-reading)
  * [About Mike Amundsen](#about-mike-amundsen)
- * [Photos from the event](2018-04-perth-workshop-photos.zip)
+ * [Photos from the event](https://photos.app.goo.gl/S6kis340LcrmTORA3)
 
 _**NOTE: Watch this space!** This repo will be updated occasionally in the run-up to the actual live workshop. Feel free to visit this about once a week to see what's new as a way to help you prepare for a full day of **Designing and Building Great APIs**_.
 
